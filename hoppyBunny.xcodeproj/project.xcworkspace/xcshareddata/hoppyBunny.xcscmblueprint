@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5007992B5F0D9E935CBF395B8D202CF095A60BB7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5007992B5F0D9E935CBF395B8D202CF095A60BB7" : 9223372036854775807,
+    "2A1C594E0C4082B858A83B08B3DE2DB0DDE71997" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D6392B98-DD4A-4CE8-A724-17998AECAD6C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5007992B5F0D9E935CBF395B8D202CF095A60BB7" : "Hoppy-Bunny\/",
+    "2A1C594E0C4082B858A83B08B3DE2DB0DDE71997" : "Hoppy-Bunny\/hoppyBunny\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "hoppyBunny",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "hoppyBunny.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MeTheThird\/hoppyBunny.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2A1C594E0C4082B858A83B08B3DE2DB0DDE71997"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MeTheThird\/Hoppy-Bunny.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5007992B5F0D9E935CBF395B8D202CF095A60BB7"
+    }
+  ]
+}
